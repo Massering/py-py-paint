@@ -1,2 +1,2 @@
-# py-py-paint
-PyPaint
+# Krasnoyarsk-Rudakov
+Krasnoyarsk-Rudakov
