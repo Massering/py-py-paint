@@ -1,2 +1,0 @@
-# Krasnoyarsk-Rudakov
-Krasnoyarsk-Rudakov
